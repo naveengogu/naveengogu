@@ -5,6 +5,23 @@ Hi, i'm *Naveen Gogu* a passionate self-taught DevOps Engineer and spent lot of 
 ### Experience in:
 
 <details>
+  <summary>AI/ML tools in the world of DevOps</summary>
+  
+  - Proficiency in using AI/ML techniques for monitoring, logging, and analyzing data in the DevOps pipeline.
+  - Strong understanding of AI and its applications in DevOps. Experience in applying AI techniques to automate and optimize DevOps workflows. Proficient in using AI tools and frameworks, such as Sosiv, K8sGPT, ChatGPT, AiAC, Kubiya and GitHub CoPilot, ChatOpts and more
+  - Experience with implementing AI-powered automation in various stages of the DevOps lifecycle, such as testing, deployment, and monitoring.
+  - Knowledge of using AI/ML for predictive analytics to identify potential bottlenecks and improve the overall efficiency of the pipeline.
+  - Familiarity with AI-based anomaly detection for early identification and resolution of issues in the pipeline.
+  - Experience with integrating AI/ML models with existing DevOps tools such as Jenkins, Docker, and Kubernetes.
+  - Strong understanding of statistical modeling, algorithms, and data analysis techniques for AI/ML in DevOps.
+  - Experience with AI-based root cause analysis to identify the root cause of issues and resolve them quickly.
+  - Familiarity with AIOps tools and techniques for automating IT operations and improving overall system reliability.
+  - Knowledge of AI-based testing for automating test cases and ensuring continuous testing in the DevOps pipeline.
+  - Experience with implementing AI-powered chatbots and virtual assistants to automate tasks and reduce manual intervention in the pipeline.
+  - Familiarity with cloud-based AI/ML platforms such as Amazon SageMaker, Google Cloud AI, and Azure Machine Learning. 
+</details>
+
+<details>
   <summary>AWS</summary>
 
   - Deep understanding of AWS cloud architecture, services, and best practices.
