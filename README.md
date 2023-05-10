@@ -6,21 +6,22 @@ Hi, i'm *Naveen Gogu* a passionate self-taught DevOps Engineer and spent lot of 
 
 <details>
   <summary>AWS</summary>
-    - Deep understanding of AWS cloud architecture, services, and best practices.
-    - Proven ability to design and implement highly available, scalable, and fault-tolerant AWS infrastructure.
-    - Extensive experience in automating AWS workflows using tools like CloudFormation and Terraform.
-    - Proficiency in managing AWS services like EC2, S3, RDS, Lambda, and DynamoDB.
-    - Experience in implementing AWS security best practices, including IAM policies and VPC networking.
-    - Knowledge of AWS monitoring and logging services, including CloudWatch and CloudTrail.
-    - Ability to optimize AWS resource utilization and performance, including cost optimization.
-    - Experience in deploying and managing AWS infrastructure using infrastructure-as-code principles.
-    - Knowledge of AWS serverless architectures and best practices, including Lambda and API Gateway.
-    - Proficiency in deploying and managing AWS containers using services like ECS and EKS.
-    - Understanding of AWS networking options, including VPC peering and VPN connections.
-    - Ability to troubleshoot and resolve complex AWS issues in production environments.
-    - Experience in implementing disaster recovery and backup strategies in AWS.
-    - Ability to deploy and manage AWS services on different operating systems and platforms.
-    - Knowledge of AWS DevOps best practices and tools, including CodePipeline and CodeDeploy.  
+
+  - Deep understanding of AWS cloud architecture, services, and best practices.
+  - Proven ability to design and implement highly available, scalable, and fault-tolerant AWS infrastructure.
+  - Extensive experience in automating AWS workflows using tools like CloudFormation and Terraform.
+  - Proficiency in managing AWS services like EC2, S3, RDS, Lambda, and DynamoDB.
+  - Experience in implementing AWS security best practices, including IAM policies and VPC networking.
+  - Knowledge of AWS monitoring and logging services, including CloudWatch and CloudTrail.
+  - Ability to optimize AWS resource utilization and performance, including cost optimization.
+  - Experience in deploying and managing AWS infrastructure using infrastructure-as-code principles.
+  - Knowledge of AWS serverless architectures and best practices, including Lambda and API Gateway.
+  - Proficiency in deploying and managing AWS containers using services like ECS and EKS.
+  - Understanding of AWS networking options, including VPC peering and VPN connections.
+  - Ability to troubleshoot and resolve complex AWS issues in production environments.
+  - Experience in implementing disaster recovery and backup strategies in AWS.
+  - Ability to deploy and manage AWS services on different operating systems and platforms.
+  - Knowledge of AWS DevOps best practices and tools, including CodePipeline and CodeDeploy.  
 </details>
 
 
