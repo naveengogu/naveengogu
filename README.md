@@ -168,21 +168,21 @@ Hi, i'm *Naveen Gogu* a passionate self-taught DevOps Engineer and spent lot of 
 <details>
   <summary>Prometheus</summary>
 
-  -Proficiency in designing, deploying and managing Prometheus monitoring systems for large-scale production environments.
-  -Knowledge of Prometheus query language (PromQL) and its use in defining and monitoring custom metrics.
-  -Experience in configuring and customizing Prometheus alerting rules and notifications for proactive monitoring and incident response.
-  -Proficiency in integrating Prometheus with Kubernetes and other DevOps tools for automated deployment and monitoring.
-  -Ability to design and implement complex Grafana dashboards and visualizations using Prometheus metrics.
-  -Knowledge of Prometheus federation for distributed monitoring across multiple clusters and data centers.
-  -Experience in scaling Prometheus clusters for high availability and performance.
-  -Ability to troubleshoot and resolve complex issues with Prometheus in production environments.
-  -Proficiency in using Prometheus to monitor and analyze system performance, resource utilization and capacity planning.
-  -Knowledge of Prometheus exporters for monitoring third-party services and applications.
-  -Ability to automate Prometheus management and configuration using Infrastructure as Code (IaC) principles.
-  -Experience in using Prometheus for log monitoring and analysis.
-  -Knowledge of Prometheus best practices for security, data retention and backup and recovery.
-  -Ability to mentor and train junior DevOps engineers on Prometheus best practices and implementation.
-  -Excellent communication skills and ability to work collaboratively with cross-functional teams to design and implement Prometheus-based monitoring solutions.  
+  - Proficiency in designing, deploying and managing Prometheus monitoring systems for large-scale production environments.
+  - Knowledge of Prometheus query language (PromQL) and its use in defining and monitoring custom metrics.
+  - Experience in configuring and customizing Prometheus alerting rules and notifications for proactive monitoring and incident response.
+  - Proficiency in integrating Prometheus with Kubernetes and other DevOps tools for automated deployment and monitoring.
+  - Ability to design and implement complex Grafana dashboards and visualizations using Prometheus metrics.
+  - Knowledge of Prometheus federation for distributed monitoring across multiple clusters and data centers.
+  - Experience in scaling Prometheus clusters for high availability and performance.
+  - Ability to troubleshoot and resolve complex issues with Prometheus in production environments.
+  - Proficiency in using Prometheus to monitor and analyze system performance, resource utilization and capacity planning.
+  - Knowledge of Prometheus exporters for monitoring third-party services and applications.
+  - Ability to automate Prometheus management and configuration using Infrastructure as Code (IaC) principles.
+  - Experience in using Prometheus for log monitoring and analysis.
+  - Knowledge of Prometheus best practices for security, data retention and backup and recovery.
+  - Ability to mentor and train junior DevOps engineers on Prometheus best practices and implementation.
+  - Excellent communication skills and ability to work collaboratively with cross-functional teams to design and implement Prometheus-based monitoring solutions.  
 </details>
 
 
@@ -269,19 +269,19 @@ Hi, i'm *Naveen Gogu* a passionate self-taught DevOps Engineer and spent lot of 
 <details>
   <summary>GitHub, Bitbucket, Gitlab</summary>
 
-GitHub:
+  - ### GitHub:
   - Proficient in using GitHub for version control and collaborative development of software projects
   - Expertise in setting up and configuring GitHub repositories, branches, and pull requests for efficient development workflows
   - Experience in integrating GitHub with CI/CD pipelines for automated builds, testing, and deployment
   - Skilled in managing GitHub issues, milestones, and project boards for effective project management and team collaboration
   - Knowledgeable in using GitHub Actions for automating workflows and deploying to cloud services
-Bitbucket:
+  - ### Bitbucket:
   - Proficient in using Bitbucket for version control and collaborative development of software projects
   - Expertise in setting up and configuring Bitbucket repositories, branches, and pull requests for efficient development workflows
   - Experience in integrating Bitbucket with CI/CD pipelines for automated builds, testing, and deployment
   - Skilled in managing Bitbucket issues, milestones, and project boards for effective project management and team collaboration
   - Knowledgeable in using Bitbucket Pipelines for automating workflows and deploying to cloud services
-GitLab:
+  - ### GitLab:
   - Proficient in using GitLab for version control and collaborative development of software projects
   - Expertise in setting up and configuring GitLab repositories, branches, and merge requests for efficient development workflows
   - Experience in integrating GitLab with CI/CD pipelines for automated builds, testing, and deployment
@@ -292,7 +292,7 @@ GitLab:
 <details>
   <summary>Nginx, Apache</summary>
 
-Nginx:
+  - ### Nginx:
   - Extensive experience in configuring and deploying Nginx as a high-performance reverse proxy, load balancer, and web server.
   - Expertise in tuning Nginx for optimal performance, scalability, and reliability in high-traffic environments.
   - Proficient in configuring Nginx to handle SSL/TLS termination, HTTP/2, WebSocket, and other advanced protocols.
@@ -302,7 +302,7 @@ Nginx:
   - Skilled in monitoring Nginx performance metrics using tools such as Prometheus, Grafana, and ELK.
   - Knowledge of Nginx security best practices, including securing Nginx itself, its SSL/TLS configurations, and its interaction with backend servers.
   - Experience in configuring Nginx as a reverse proxy for various backend technologies, including Tomcat, Node.js, and Django.
-Apache:
+  - ### Apache:
   - Extensive experience in configuring and deploying Apache as a high-performance web server, reverse proxy, and load balancer.
   - Expertise in tuning Apache for optimal performance, scalability, and reliability in high-traffic environments.
   - Proficient in configuring Apache to handle SSL/TLS termination, virtual hosting, and other advanced features.
