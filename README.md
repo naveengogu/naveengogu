@@ -13,3 +13,12 @@ AWS | Kubernetes | Docker | Terraform | Jenkins | Ansible | Istio | argoproj | P
   - Item 3
   
 </details>
+
+<details>
+  <summary>Click to expand!</summary>
+  
+  - Item 1
+  - Item 2
+  - Item 3
+  
+</details>
